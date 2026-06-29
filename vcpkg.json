@@ -1,0 +1,10 @@
+{
+  "name": "morphosis-spray",
+  "version-string": "1.1.0",
+  "dependencies": [
+    {
+      "name": "glew",
+      "platform": "windows"
+    }
+  ]
+}
