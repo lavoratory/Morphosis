@@ -19,7 +19,7 @@ if(APPLE)
     endif()
 elseif(WIN32)
     if(NOT MORPHOSIS_RESOLUME_PLUGIN_DIR)
-        set(MORPHOSIS_RESOLUME_PLUGIN_DIR "$ENV{USERPROFILE}/Documents/Resolume/Extra Effects" CACHE PATH "Resolume plugin install directory")
+        set(MORPHOSIS_RESOLUME_PLUGIN_DIR "$ENV{USERPROFILE}/Documents/Resolume Arena/Extra Effects" CACHE PATH "Resolume plugin install directory")
     endif()
 endif()
 
